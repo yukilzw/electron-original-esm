@@ -1,0 +1,19 @@
+{
+  "name": "electron-original-esm",
+  "version": "0.0.1",
+  "description": "use esModule with Chromium support",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/yukilzw/electron-original-esm",
+  "keywords": [
+    "Electron",
+    "demo"
+  ],
+  "author": "yukilzw",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "9.0.0-beta.17"
+  }
+}
